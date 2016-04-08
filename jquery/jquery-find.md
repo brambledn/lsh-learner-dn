@@ -1,4 +1,6 @@
 ##jquery学习篇－－遍历
+1.  $().add
+
 
         $().add
         $("ul").css("border","1px solid #bcbcbc").add("p").css("color","#7f7ddd");
