@@ -1,4 +1,5 @@
 ##jquery学习篇－－遍历
+
 1. $().add
     $("ul").css("border","1px solid #bcbcbc")
            .add("p")
